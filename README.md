@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stavropoulospanagiotis&label=Profile%20views&color=0e75b6&style=flat" alt="stavropoulospanagiotis" /> </p>
 
-- 🌱 I’m currently learning **Dart and later on i am looking forward to learning Flutter**
+- 🌱 I’m currently learning **Dart and later on, i am looking forward to learning Flutter**
 
 - 📫 How to reach me **stavropoulospanagiotis030802@gmail.com**
 
