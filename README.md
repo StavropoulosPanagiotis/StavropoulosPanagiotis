@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stavropoulospanagiotis" alt="stavropoulospanagiotis" /></a> </p>
 
-- 🔭 I’m currently working on **We Go Gym. An app created using flutter, where you can organize your workouts**
+- 🔭 I’m currently working on **"We Go Gym". An app created using flutter, where you can organize your workouts**
 
 - 🌱 I’m currently learning **App Development using Flutter and Dart**
 
