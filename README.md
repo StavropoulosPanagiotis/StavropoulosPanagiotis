@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **stavropoulospanagiotis030802@gmail.com**
 
-- 📄 Know about my experiences [Some projects on c, c++ from university, but mostly personal projects using the below languages](Some projects on c, c++ from university, but mostly personal projects using the below languages)
+- 📄 Know about my experiences : Some projects on c, c++ from university, but mostly personal projects using the below languages
 
 - ⚡ Fun fact **I enjoy coloring buttons :)**
 
