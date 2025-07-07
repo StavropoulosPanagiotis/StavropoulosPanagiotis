@@ -6,6 +6,7 @@
 
 - 🌱 I’m currently learning **[Spring Security with JWT]**
 - 👐 Currently focused on a book store project using Spring Boot**
+- 💪 Experience with Python, Java, C, SpringBoot for my university's projects
 <br>
 
 ## 🛠️ Languages and Tools
@@ -13,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,react,mysql,mongodb"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,react,mysql,mongodb,c"/>
   <img src="https://skillicons.dev/icons?i=html,css,python,js,git,postman" />
 </p>
 
