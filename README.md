@@ -15,7 +15,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs,react,mysql,mongodb,c"/>
-  <img src="https://skillicons.dev/icons?i=html,css,python,js,git,postman" />
+  <img src="https://skillicons.dev/icons?i=python,js,git,postman" />
 </p>
 
 <hr>
