@@ -5,8 +5,8 @@
 ### An undergraduate CSE student at University of Ioannina, passionate about Java, Spring Boot, and building robust backend systems.
 
 - 🌱 I’m currently learning **[Spring Security with JWT]**
-- 👐 Currently focused on a book store project using Spring Boot**
-- 💪 Experience with Python, Java, C, SpringBoot for my university's projects
+- 👐 Currently focused on a book store project using Spring Boot
+- 💪 Experience with Python, Java, C, SpringBoot from my university's projects
 <br>
 
 ## 🛠️ Languages and Tools
